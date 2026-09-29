@@ -1,0 +1,18 @@
+observe O1 火星
+observe O1 金星
+weather
+schedule W1
+weather
+schedule W2
+weather
+schedule W2
+calibrate
+store A 6
+store B 6
+cancel W1
+record O2 2
+record O2 2
+record O2 1
+bogus
+store
+quit
